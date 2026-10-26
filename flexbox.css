@@ -6,9 +6,10 @@ body{
 .flex-container{
     display: flex;
     border: 1px solid yellow;
-    flex-direction: row;
+    flex-direction: column;
     justify-items: center;
     flex-wrap: wrap;
+
 }
 .fex-item{
     background-color: black;
