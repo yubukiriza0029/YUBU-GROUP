@@ -1,0 +1,21 @@
+body{
+    background-color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.flex-container{
+    display: flex;
+    border: 1px solid yellow;
+    flex-direction: row;
+    justify-items: center;
+    flex-wrap: wrap;
+}
+.fex-item{
+    background-color: black;
+    margin:10px
+    padding 10px
+    border-radius 10px
+    width 250px
+    height 250px
+
+}
